@@ -143,13 +143,14 @@ def self.print_table(group)
   group.sort.reverse.each do |team|
     puts '|%-5s|%4d|%4d|' % [team.short, team.total_wins, team.total_loses]
   end
+  headers = group[1..-1].reverse
   puts '#### Head-to-head Record'
-  puts "|   |#{group[1..-1].reverse.map(&:short).join('|')}|"
+  puts "|   |#{headers.map(&:short).join('|')}|"
   puts "|:---:|:---:|:---:|:---:|"
   (0..2).each do |i|
     line = "|**#{group[i].short}**|"
-    ((i + 1)..3).each do |j|
-      line += "#{group[i].team_records[group[j]].join('-')}|"
+    (0..(2 - i)).each do |j|
+      line += "#{group[i].team_records[headers[j]].join('-')}|"
     end
     puts line
   end

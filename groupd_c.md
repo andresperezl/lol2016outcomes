@@ -9,7 +9,7 @@
 #### Head-to-head Record
 |   |ITZ|H2K|AHQ|
 |:---:|:---:|:---:|:---:|
-|**EDG**|1-0|1-0|0-1|
+|**EDG**|0-1|1-0|1-0|
 |**AHQ**|1-0|1-0|
 |**H2K**|1-0|
 *Legend: Left W - Top W*
@@ -65,7 +65,7 @@ Totals: 38/64 (59.375%)
 |   |EDG|ITZ|AHQ|
 |:---:|:---:|:---:|:---:|
 |**H2K**|1-1|2-0|1-1|
-|**AHQ**|2-0|1-1|
+|**AHQ**|1-1|2-0|
 |**ITZ**|2-0|
 *Legend: Left W - Top W*
 
@@ -96,7 +96,7 @@ Go to [Top](#) | [Summary](#summary)
 |   |EDG|ITZ|AHQ|
 |:---:|:---:|:---:|:---:|
 |**H2K**|1-1|2-0|1-1|
-|**AHQ**|2-0|1-1|
+|**AHQ**|1-1|2-0|
 |**ITZ**|2-0|
 *Legend: Left W - Top W*
 
@@ -126,7 +126,7 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |H2K|ITZ|EDG|
 |:---:|:---:|:---:|:---:|
-|**AHQ**|1-1|2-0|2-0|
+|**AHQ**|2-0|2-0|1-1|
 |**EDG**|1-1|1-1|
 |**ITZ**|1-1|
 *Legend: Left W - Top W*
@@ -157,7 +157,7 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |H2K|ITZ|EDG|
 |:---:|:---:|:---:|:---:|
-|**AHQ**|1-1|2-0|2-0|
+|**AHQ**|2-0|2-0|1-1|
 |**EDG**|1-1|1-1|
 |**ITZ**|1-1|
 *Legend: Left W - Top W*
@@ -188,8 +188,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |H2K|EDG|ITZ|
 |:---:|:---:|:---:|:---:|
-|**AHQ**|2-0|1-1|1-1|
-|**ITZ**|2-0|1-1|
+|**AHQ**|1-1|1-1|2-0|
+|**ITZ**|1-1|2-0|
 |**EDG**|2-0|
 *Legend: Left W - Top W*
 
@@ -219,8 +219,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |H2K|EDG|ITZ|
 |:---:|:---:|:---:|:---:|
-|**AHQ**|2-0|1-1|1-1|
-|**ITZ**|2-0|1-1|
+|**AHQ**|1-1|1-1|2-0|
+|**ITZ**|1-1|2-0|
 |**EDG**|2-0|
 *Legend: Left W - Top W*
 
@@ -250,8 +250,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |ITZ|H2K|EDG|
 |:---:|:---:|:---:|:---:|
-|**AHQ**|1-1|1-1|2-0|
-|**EDG**|2-0|0-2|
+|**AHQ**|2-0|1-1|1-1|
+|**EDG**|0-2|2-0|
 |**H2K**|2-0|
 *Legend: Left W - Top W*
 
@@ -281,8 +281,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |ITZ|H2K|EDG|
 |:---:|:---:|:---:|:---:|
-|**AHQ**|1-1|1-1|2-0|
-|**EDG**|2-0|0-2|
+|**AHQ**|2-0|1-1|1-1|
+|**EDG**|0-2|2-0|
 |**H2K**|2-0|
 *Legend: Left W - Top W*
 
@@ -312,8 +312,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |H2K|ITZ|EDG|
 |:---:|:---:|:---:|:---:|
-|**AHQ**|1-1|1-1|2-0|
-|**EDG**|1-1|2-0|
+|**AHQ**|2-0|1-1|1-1|
+|**EDG**|2-0|1-1|
 |**ITZ**|1-1|
 *Legend: Left W - Top W*
 
@@ -343,8 +343,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |H2K|ITZ|EDG|
 |:---:|:---:|:---:|:---:|
-|**AHQ**|1-1|1-1|2-0|
-|**EDG**|1-1|2-0|
+|**AHQ**|2-0|1-1|1-1|
+|**EDG**|2-0|1-1|
 |**ITZ**|1-1|
 *Legend: Left W - Top W*
 
@@ -375,7 +375,7 @@ Go to [Top](#) | [Summary](#summary)
 |   |ITZ|H2K|EDG|
 |:---:|:---:|:---:|:---:|
 |**AHQ**|1-1|2-0|1-1|
-|**EDG**|2-0|1-1|
+|**EDG**|1-1|2-0|
 |**H2K**|2-0|
 *Legend: Left W - Top W*
 
@@ -406,7 +406,7 @@ Go to [Top](#) | [Summary](#summary)
 |   |ITZ|H2K|EDG|
 |:---:|:---:|:---:|:---:|
 |**AHQ**|1-1|2-0|1-1|
-|**EDG**|2-0|1-1|
+|**EDG**|1-1|2-0|
 |**H2K**|2-0|
 *Legend: Left W - Top W*
 
@@ -436,8 +436,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |H2K|ITZ|EDG|
 |:---:|:---:|:---:|:---:|
-|**AHQ**|1-1|2-0|2-0|
-|**EDG**|1-1|2-0|
+|**AHQ**|2-0|2-0|1-1|
+|**EDG**|2-0|1-1|
 |**ITZ**|1-1|
 *Legend: Left W - Top W*
 
@@ -467,8 +467,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |H2K|ITZ|EDG|
 |:---:|:---:|:---:|:---:|
-|**AHQ**|1-1|2-0|2-0|
-|**EDG**|1-1|2-0|
+|**AHQ**|2-0|2-0|1-1|
+|**EDG**|2-0|1-1|
 |**ITZ**|1-1|
 *Legend: Left W - Top W*
 
@@ -498,8 +498,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |ITZ|H2K|EDG|
 |:---:|:---:|:---:|:---:|
-|**AHQ**|1-1|2-0|2-0|
-|**EDG**|2-0|1-1|
+|**AHQ**|2-0|2-0|1-1|
+|**EDG**|1-1|2-0|
 |**H2K**|2-0|
 *Legend: Left W - Top W*
 
@@ -529,8 +529,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |ITZ|H2K|EDG|
 |:---:|:---:|:---:|:---:|
-|**AHQ**|1-1|2-0|2-0|
-|**EDG**|2-0|1-1|
+|**AHQ**|2-0|2-0|1-1|
+|**EDG**|1-1|2-0|
 |**H2K**|2-0|
 *Legend: Left W - Top W*
 
@@ -560,8 +560,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |AHQ|EDG|ITZ|
 |:---:|:---:|:---:|:---:|
-|**H2K**|2-0|1-1|1-1|
-|**ITZ**|2-0|1-1|
+|**H2K**|1-1|1-1|2-0|
+|**ITZ**|1-1|2-0|
 |**EDG**|2-0|
 *Legend: Left W - Top W*
 
@@ -591,8 +591,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |AHQ|EDG|ITZ|
 |:---:|:---:|:---:|:---:|
-|**H2K**|2-0|1-1|1-1|
-|**ITZ**|2-0|1-1|
+|**H2K**|1-1|1-1|2-0|
+|**ITZ**|1-1|2-0|
 |**EDG**|2-0|
 *Legend: Left W - Top W*
 
@@ -622,8 +622,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |ITZ|AHQ|EDG|
 |:---:|:---:|:---:|:---:|
-|**H2K**|1-1|1-1|2-0|
-|**EDG**|2-0|0-2|
+|**H2K**|2-0|1-1|1-1|
+|**EDG**|0-2|2-0|
 |**AHQ**|2-0|
 *Legend: Left W - Top W*
 
@@ -653,8 +653,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |ITZ|AHQ|EDG|
 |:---:|:---:|:---:|:---:|
-|**H2K**|1-1|1-1|2-0|
-|**EDG**|2-0|0-2|
+|**H2K**|2-0|1-1|1-1|
+|**EDG**|0-2|2-0|
 |**AHQ**|2-0|
 *Legend: Left W - Top W*
 
@@ -684,8 +684,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |ITZ|H2K|AHQ|
 |:---:|:---:|:---:|:---:|
-|**EDG**|2-0|1-1|1-1|
-|**AHQ**|2-0|1-1|
+|**EDG**|1-1|1-1|2-0|
+|**AHQ**|1-1|2-0|
 |**H2K**|2-0|
 *Legend: Left W - Top W*
 
@@ -715,8 +715,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |ITZ|H2K|AHQ|
 |:---:|:---:|:---:|:---:|
-|**EDG**|2-0|1-1|1-1|
-|**AHQ**|2-0|1-1|
+|**EDG**|1-1|1-1|2-0|
+|**AHQ**|1-1|2-0|
 |**H2K**|2-0|
 *Legend: Left W - Top W*
 
@@ -746,7 +746,7 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |H2K|ITZ|AHQ|
 |:---:|:---:|:---:|:---:|
-|**EDG**|2-0|1-1|1-1|
+|**EDG**|1-1|1-1|2-0|
 |**AHQ**|2-0|2-0|
 |**ITZ**|1-1|
 *Legend: Left W - Top W*
@@ -777,7 +777,7 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |H2K|ITZ|AHQ|
 |:---:|:---:|:---:|:---:|
-|**EDG**|2-0|1-1|1-1|
+|**EDG**|1-1|1-1|2-0|
 |**AHQ**|2-0|2-0|
 |**ITZ**|1-1|
 *Legend: Left W - Top W*
@@ -808,7 +808,7 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |ITZ|H2K|AHQ|
 |:---:|:---:|:---:|:---:|
-|**EDG**|2-0|1-1|1-1|
+|**EDG**|1-1|1-1|2-0|
 |**AHQ**|2-0|2-0|
 |**H2K**|2-0|
 *Legend: Left W - Top W*
@@ -839,7 +839,7 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |ITZ|H2K|AHQ|
 |:---:|:---:|:---:|:---:|
-|**EDG**|2-0|1-1|1-1|
+|**EDG**|1-1|1-1|2-0|
 |**AHQ**|2-0|2-0|
 |**H2K**|2-0|
 *Legend: Left W - Top W*
@@ -870,7 +870,7 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |AHQ|H2K|EDG|
 |:---:|:---:|:---:|:---:|
-|**ITZ**|2-0|1-1|1-1|
+|**ITZ**|1-1|1-1|2-0|
 |**EDG**|2-0|2-0|
 |**H2K**|1-1|
 *Legend: Left W - Top W*
@@ -901,7 +901,7 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |AHQ|H2K|EDG|
 |:---:|:---:|:---:|:---:|
-|**ITZ**|2-0|1-1|1-1|
+|**ITZ**|1-1|1-1|2-0|
 |**EDG**|2-0|2-0|
 |**H2K**|1-1|
 *Legend: Left W - Top W*
@@ -933,7 +933,7 @@ Go to [Top](#) | [Summary](#summary)
 |   |AHQ|ITZ|H2K|
 |:---:|:---:|:---:|:---:|
 |**EDG**|2-0|0-2|2-0|
-|**H2K**|2-0|1-1|
+|**H2K**|1-1|2-0|
 |**ITZ**|1-1|
 *Legend: Left W - Top W*
 
@@ -964,7 +964,7 @@ Go to [Top](#) | [Summary](#summary)
 |   |AHQ|ITZ|H2K|
 |:---:|:---:|:---:|:---:|
 |**EDG**|2-0|0-2|2-0|
-|**H2K**|2-0|1-1|
+|**H2K**|1-1|2-0|
 |**ITZ**|1-1|
 *Legend: Left W - Top W*
 
@@ -995,7 +995,7 @@ Go to [Top](#) | [Summary](#summary)
 |   |H2K|ITZ|AHQ|
 |:---:|:---:|:---:|:---:|
 |**EDG**|2-0|0-2|2-0|
-|**AHQ**|2-0|1-1|
+|**AHQ**|1-1|2-0|
 |**ITZ**|1-1|
 *Legend: Left W - Top W*
 
@@ -1026,7 +1026,7 @@ Go to [Top](#) | [Summary](#summary)
 |   |H2K|ITZ|AHQ|
 |:---:|:---:|:---:|:---:|
 |**EDG**|2-0|0-2|2-0|
-|**AHQ**|2-0|1-1|
+|**AHQ**|1-1|2-0|
 |**ITZ**|1-1|
 *Legend: Left W - Top W*
 
@@ -1056,8 +1056,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |ITZ|H2K|AHQ|
 |:---:|:---:|:---:|:---:|
-|**EDG**|2-0|2-0|1-1|
-|**AHQ**|2-0|1-1|
+|**EDG**|1-1|2-0|2-0|
+|**AHQ**|1-1|2-0|
 |**H2K**|2-0|
 *Legend: Left W - Top W*
 
@@ -1087,8 +1087,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |ITZ|H2K|AHQ|
 |:---:|:---:|:---:|:---:|
-|**EDG**|2-0|2-0|1-1|
-|**AHQ**|2-0|1-1|
+|**EDG**|1-1|2-0|2-0|
+|**AHQ**|1-1|2-0|
 |**H2K**|2-0|
 *Legend: Left W - Top W*
 
@@ -1180,7 +1180,7 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |ITZ|H2K|AHQ|
 |:---:|:---:|:---:|:---:|
-|**EDG**|2-0|2-0|1-1|
+|**EDG**|1-1|2-0|2-0|
 |**AHQ**|2-0|2-0|
 |**H2K**|2-0|
 *Legend: Left W - Top W*
@@ -1211,7 +1211,7 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |ITZ|H2K|AHQ|
 |:---:|:---:|:---:|:---:|
-|**EDG**|2-0|2-0|1-1|
+|**EDG**|1-1|2-0|2-0|
 |**AHQ**|2-0|2-0|
 |**H2K**|2-0|
 *Legend: Left W - Top W*
@@ -1243,7 +1243,7 @@ Totals: 26/64 (40.625%)
 #### Head-to-head Record
 |   |EDG|AHQ|H2K|
 |:---:|:---:|:---:|:---:|
-|**ITZ**|1-1|1-1|2-0|
+|**ITZ**|2-0|1-1|1-1|
 |**H2K**|1-1|1-1|
 |**AHQ**|1-1|
 *Legend: Left W - Top W*
@@ -1271,7 +1271,7 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |EDG|AHQ|H2K|
 |:---:|:---:|:---:|:---:|
-|**ITZ**|1-1|1-1|2-0|
+|**ITZ**|2-0|1-1|1-1|
 |**H2K**|1-1|1-1|
 |**AHQ**|1-1|
 *Legend: Left W - Top W*
@@ -1299,8 +1299,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |EDG|AHQ|ITZ|
 |:---:|:---:|:---:|:---:|
-|**H2K**|2-0|1-1|1-1|
-|**ITZ**|1-1|2-0|
+|**H2K**|1-1|1-1|2-0|
+|**ITZ**|2-0|1-1|
 |**AHQ**|1-1|
 *Legend: Left W - Top W*
 
@@ -1327,8 +1327,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |EDG|AHQ|ITZ|
 |:---:|:---:|:---:|:---:|
-|**H2K**|2-0|1-1|1-1|
-|**ITZ**|1-1|2-0|
+|**H2K**|1-1|1-1|2-0|
+|**ITZ**|2-0|1-1|
 |**AHQ**|1-1|
 *Legend: Left W - Top W*
 
@@ -1355,8 +1355,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |EDG|H2K|ITZ|
 |:---:|:---:|:---:|:---:|
-|**AHQ**|2-0|1-1|1-1|
-|**ITZ**|1-1|2-0|
+|**AHQ**|1-1|1-1|2-0|
+|**ITZ**|2-0|1-1|
 |**H2K**|1-1|
 *Legend: Left W - Top W*
 
@@ -1383,8 +1383,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |EDG|H2K|ITZ|
 |:---:|:---:|:---:|:---:|
-|**AHQ**|2-0|1-1|1-1|
-|**ITZ**|1-1|2-0|
+|**AHQ**|1-1|1-1|2-0|
+|**ITZ**|2-0|1-1|
 |**H2K**|1-1|
 *Legend: Left W - Top W*
 
@@ -1411,7 +1411,7 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |H2K|EDG|ITZ|
 |:---:|:---:|:---:|:---:|
-|**AHQ**|1-1|1-1|2-0|
+|**AHQ**|2-0|1-1|1-1|
 |**ITZ**|1-1|1-1|
 |**EDG**|1-1|
 *Legend: Left W - Top W*
@@ -1439,7 +1439,7 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |H2K|EDG|ITZ|
 |:---:|:---:|:---:|:---:|
-|**AHQ**|1-1|1-1|2-0|
+|**AHQ**|2-0|1-1|1-1|
 |**ITZ**|1-1|1-1|
 |**EDG**|1-1|
 *Legend: Left W - Top W*
@@ -1467,8 +1467,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |ITZ|EDG|H2K|
 |:---:|:---:|:---:|:---:|
-|**AHQ**|2-0|1-1|1-1|
-|**H2K**|1-1|2-0|
+|**AHQ**|1-1|1-1|2-0|
+|**H2K**|2-0|1-1|
 |**EDG**|1-1|
 *Legend: Left W - Top W*
 
@@ -1495,8 +1495,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |ITZ|EDG|H2K|
 |:---:|:---:|:---:|:---:|
-|**AHQ**|2-0|1-1|1-1|
-|**H2K**|1-1|2-0|
+|**AHQ**|1-1|1-1|2-0|
+|**H2K**|2-0|1-1|
 |**EDG**|1-1|
 *Legend: Left W - Top W*
 
@@ -1524,7 +1524,7 @@ Go to [Top](#) | [Summary](#summary)
 |   |ITZ|EDG|H2K|
 |:---:|:---:|:---:|:---:|
 |**AHQ**|2-0|1-1|2-0|
-|**H2K**|1-1|2-0|
+|**H2K**|2-0|1-1|
 |**EDG**|1-1|
 *Legend: Left W - Top W*
 
@@ -1552,7 +1552,7 @@ Go to [Top](#) | [Summary](#summary)
 |   |ITZ|EDG|H2K|
 |:---:|:---:|:---:|:---:|
 |**AHQ**|2-0|1-1|2-0|
-|**H2K**|1-1|2-0|
+|**H2K**|2-0|1-1|
 |**EDG**|1-1|
 *Legend: Left W - Top W*
 
@@ -1635,8 +1635,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |EDG|AHQ|ITZ|
 |:---:|:---:|:---:|:---:|
-|**H2K**|2-0|1-1|0-2|
-|**ITZ**|1-1|2-0|
+|**H2K**|0-2|1-1|2-0|
+|**ITZ**|2-0|1-1|
 |**AHQ**|1-1|
 *Legend: Left W - Top W*
 
@@ -1663,8 +1663,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |EDG|AHQ|ITZ|
 |:---:|:---:|:---:|:---:|
-|**H2K**|2-0|1-1|0-2|
-|**ITZ**|1-1|2-0|
+|**H2K**|0-2|1-1|2-0|
+|**ITZ**|2-0|1-1|
 |**AHQ**|1-1|
 *Legend: Left W - Top W*
 
@@ -1747,7 +1747,7 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |AHQ|EDG|H2K|
 |:---:|:---:|:---:|:---:|
-|**ITZ**|1-1|2-0|0-2|
+|**ITZ**|0-2|2-0|1-1|
 |**H2K**|1-1|1-1|
 |**EDG**|2-0|
 *Legend: Left W - Top W*
@@ -1775,7 +1775,7 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |AHQ|EDG|H2K|
 |:---:|:---:|:---:|:---:|
-|**ITZ**|1-1|2-0|0-2|
+|**ITZ**|0-2|2-0|1-1|
 |**H2K**|1-1|1-1|
 |**EDG**|2-0|
 *Legend: Left W - Top W*
@@ -1859,8 +1859,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |ITZ|AHQ|H2K|
 |:---:|:---:|:---:|:---:|
-|**EDG**|2-0|2-0|0-2|
-|**H2K**|1-1|2-0|
+|**EDG**|0-2|2-0|2-0|
+|**H2K**|2-0|1-1|
 |**AHQ**|2-0|
 *Legend: Left W - Top W*
 
@@ -1887,8 +1887,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |ITZ|AHQ|H2K|
 |:---:|:---:|:---:|:---:|
-|**EDG**|2-0|2-0|0-2|
-|**H2K**|1-1|2-0|
+|**EDG**|0-2|2-0|2-0|
+|**H2K**|2-0|1-1|
 |**AHQ**|2-0|
 *Legend: Left W - Top W*
 
@@ -1915,7 +1915,7 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |H2K|AHQ|ITZ|
 |:---:|:---:|:---:|:---:|
-|**EDG**|1-1|2-0|2-0|
+|**EDG**|2-0|2-0|1-1|
 |**ITZ**|1-1|1-1|
 |**AHQ**|2-0|
 *Legend: Left W - Top W*
@@ -1943,7 +1943,7 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |H2K|AHQ|ITZ|
 |:---:|:---:|:---:|:---:|
-|**EDG**|1-1|2-0|2-0|
+|**EDG**|2-0|2-0|1-1|
 |**ITZ**|1-1|1-1|
 |**AHQ**|2-0|
 *Legend: Left W - Top W*

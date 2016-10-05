@@ -64,7 +64,7 @@ Totals: 50/64 (78.125%)
 #### Head-to-head Record
 |   |CLG|G2|ROX|
 |:---:|:---:|:---:|:---:|
-|**ANX**|1-1|2-0|2-0|
+|**ANX**|2-0|2-0|1-1|
 |**ROX**|1-1|1-1|
 |**G2**|1-1|
 *Legend: Left W - Top W*
@@ -95,7 +95,7 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |CLG|G2|ROX|
 |:---:|:---:|:---:|:---:|
-|**ANX**|1-1|2-0|2-0|
+|**ANX**|2-0|2-0|1-1|
 |**ROX**|1-1|1-1|
 |**G2**|1-1|
 *Legend: Left W - Top W*
@@ -126,8 +126,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |CLG|G2|ROX|
 |:---:|:---:|:---:|:---:|
-|**ANX**|1-1|1-1|2-0|
-|**ROX**|2-0|1-1|
+|**ANX**|2-0|1-1|1-1|
+|**ROX**|1-1|2-0|
 |**G2**|1-1|
 *Legend: Left W - Top W*
 
@@ -157,8 +157,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |CLG|G2|ROX|
 |:---:|:---:|:---:|:---:|
-|**ANX**|1-1|1-1|2-0|
-|**ROX**|2-0|1-1|
+|**ANX**|2-0|1-1|1-1|
+|**ROX**|1-1|2-0|
 |**G2**|1-1|
 *Legend: Left W - Top W*
 
@@ -188,8 +188,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |G2|CLG|ROX|
 |:---:|:---:|:---:|:---:|
-|**ANX**|1-1|2-0|2-0|
-|**ROX**|1-1|2-0|
+|**ANX**|2-0|2-0|1-1|
+|**ROX**|2-0|1-1|
 |**CLG**|1-1|
 *Legend: Left W - Top W*
 
@@ -219,8 +219,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |G2|CLG|ROX|
 |:---:|:---:|:---:|:---:|
-|**ANX**|1-1|2-0|2-0|
-|**ROX**|1-1|2-0|
+|**ANX**|2-0|2-0|1-1|
+|**ROX**|2-0|1-1|
 |**CLG**|1-1|
 *Legend: Left W - Top W*
 
@@ -250,8 +250,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |G2|CLG|ANX|
 |:---:|:---:|:---:|:---:|
-|**ROX**|2-0|1-1|1-1|
-|**ANX**|2-0|1-1|
+|**ROX**|1-1|1-1|2-0|
+|**ANX**|1-1|2-0|
 |**CLG**|2-0|
 *Legend: Left W - Top W*
 
@@ -281,8 +281,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |G2|CLG|ANX|
 |:---:|:---:|:---:|:---:|
-|**ROX**|2-0|1-1|1-1|
-|**ANX**|2-0|1-1|
+|**ROX**|1-1|1-1|2-0|
+|**ANX**|1-1|2-0|
 |**CLG**|2-0|
 *Legend: Left W - Top W*
 
@@ -312,7 +312,7 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |G2|CLG|ANX|
 |:---:|:---:|:---:|:---:|
-|**ROX**|2-0|1-1|1-1|
+|**ROX**|1-1|1-1|2-0|
 |**ANX**|2-0|2-0|
 |**CLG**|2-0|
 *Legend: Left W - Top W*
@@ -343,7 +343,7 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |G2|CLG|ANX|
 |:---:|:---:|:---:|:---:|
-|**ROX**|2-0|1-1|1-1|
+|**ROX**|1-1|1-1|2-0|
 |**ANX**|2-0|2-0|
 |**CLG**|2-0|
 *Legend: Left W - Top W*
@@ -375,7 +375,7 @@ Go to [Top](#) | [Summary](#summary)
 |   |G2|CLG|ANX|
 |:---:|:---:|:---:|:---:|
 |**ROX**|2-0|1-1|2-0|
-|**ANX**|2-0|1-1|
+|**ANX**|1-1|2-0|
 |**CLG**|2-0|
 *Legend: Left W - Top W*
 
@@ -406,7 +406,7 @@ Go to [Top](#) | [Summary](#summary)
 |   |G2|CLG|ANX|
 |:---:|:---:|:---:|:---:|
 |**ROX**|2-0|1-1|2-0|
-|**ANX**|2-0|1-1|
+|**ANX**|1-1|2-0|
 |**CLG**|2-0|
 *Legend: Left W - Top W*
 
@@ -498,8 +498,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |G2|CLG|ROX|
 |:---:|:---:|:---:|:---:|
-|**ANX**|1-1|1-1|2-0|
-|**ROX**|1-1|2-0|
+|**ANX**|2-0|1-1|1-1|
+|**ROX**|2-0|1-1|
 |**CLG**|1-1|
 *Legend: Left W - Top W*
 
@@ -529,8 +529,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |G2|CLG|ROX|
 |:---:|:---:|:---:|:---:|
-|**ANX**|1-1|1-1|2-0|
-|**ROX**|1-1|2-0|
+|**ANX**|2-0|1-1|1-1|
+|**ROX**|2-0|1-1|
 |**CLG**|1-1|
 *Legend: Left W - Top W*
 
@@ -560,8 +560,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |ANX|G2|CLG|
 |:---:|:---:|:---:|:---:|
-|**ROX**|1-1|1-1|2-0|
-|**CLG**|2-0|1-1|
+|**ROX**|2-0|1-1|1-1|
+|**CLG**|1-1|2-0|
 |**G2**|1-1|
 *Legend: Left W - Top W*
 
@@ -591,8 +591,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |ANX|G2|CLG|
 |:---:|:---:|:---:|:---:|
-|**ROX**|1-1|1-1|2-0|
-|**CLG**|2-0|1-1|
+|**ROX**|2-0|1-1|1-1|
+|**CLG**|1-1|2-0|
 |**G2**|1-1|
 *Legend: Left W - Top W*
 
@@ -623,7 +623,7 @@ Go to [Top](#) | [Summary](#summary)
 |   |G2|ANX|CLG|
 |:---:|:---:|:---:|:---:|
 |**ROX**|1-1|2-0|1-1|
-|**CLG**|1-1|2-0|
+|**CLG**|2-0|1-1|
 |**ANX**|2-0|
 *Legend: Left W - Top W*
 
@@ -654,7 +654,7 @@ Go to [Top](#) | [Summary](#summary)
 |   |G2|ANX|CLG|
 |:---:|:---:|:---:|:---:|
 |**ROX**|1-1|2-0|1-1|
-|**CLG**|1-1|2-0|
+|**CLG**|2-0|1-1|
 |**ANX**|2-0|
 *Legend: Left W - Top W*
 
@@ -684,8 +684,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |G2|ANX|CLG|
 |:---:|:---:|:---:|:---:|
-|**ROX**|1-1|2-0|2-0|
-|**CLG**|1-1|2-0|
+|**ROX**|2-0|2-0|1-1|
+|**CLG**|2-0|1-1|
 |**ANX**|1-1|
 *Legend: Left W - Top W*
 
@@ -715,8 +715,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |G2|ANX|CLG|
 |:---:|:---:|:---:|:---:|
-|**ROX**|1-1|2-0|2-0|
-|**CLG**|1-1|2-0|
+|**ROX**|2-0|2-0|1-1|
+|**CLG**|2-0|1-1|
 |**ANX**|1-1|
 *Legend: Left W - Top W*
 
@@ -746,8 +746,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |G2|ANX|CLG|
 |:---:|:---:|:---:|:---:|
-|**ROX**|1-1|2-0|2-0|
-|**CLG**|1-1|2-0|
+|**ROX**|2-0|2-0|1-1|
+|**CLG**|2-0|1-1|
 |**ANX**|2-0|
 *Legend: Left W - Top W*
 
@@ -777,8 +777,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |G2|ANX|CLG|
 |:---:|:---:|:---:|:---:|
-|**ROX**|1-1|2-0|2-0|
-|**CLG**|1-1|2-0|
+|**ROX**|2-0|2-0|1-1|
+|**CLG**|2-0|1-1|
 |**ANX**|2-0|
 *Legend: Left W - Top W*
 
@@ -808,8 +808,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |ROX|G2|CLG|
 |:---:|:---:|:---:|:---:|
-|**ANX**|2-0|2-0|1-1|
-|**CLG**|1-1|2-0|
+|**ANX**|1-1|2-0|2-0|
+|**CLG**|2-0|1-1|
 |**G2**|1-1|
 *Legend: Left W - Top W*
 
@@ -839,8 +839,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |ROX|G2|CLG|
 |:---:|:---:|:---:|:---:|
-|**ANX**|2-0|2-0|1-1|
-|**CLG**|1-1|2-0|
+|**ANX**|1-1|2-0|2-0|
+|**CLG**|2-0|1-1|
 |**G2**|1-1|
 *Legend: Left W - Top W*
 
@@ -870,8 +870,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |G2|ROX|CLG|
 |:---:|:---:|:---:|:---:|
-|**ANX**|2-0|1-1|1-1|
-|**CLG**|2-0|1-1|
+|**ANX**|1-1|1-1|2-0|
+|**CLG**|1-1|2-0|
 |**ROX**|2-0|
 *Legend: Left W - Top W*
 
@@ -901,8 +901,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |G2|ROX|CLG|
 |:---:|:---:|:---:|:---:|
-|**ANX**|2-0|1-1|1-1|
-|**CLG**|2-0|1-1|
+|**ANX**|1-1|1-1|2-0|
+|**CLG**|1-1|2-0|
 |**ROX**|2-0|
 *Legend: Left W - Top W*
 
@@ -933,7 +933,7 @@ Go to [Top](#) | [Summary](#summary)
 |   |G2|ROX|CLG|
 |:---:|:---:|:---:|:---:|
 |**ANX**|2-0|1-1|2-0|
-|**CLG**|2-0|1-1|
+|**CLG**|1-1|2-0|
 |**ROX**|2-0|
 *Legend: Left W - Top W*
 
@@ -964,7 +964,7 @@ Go to [Top](#) | [Summary](#summary)
 |   |G2|ROX|CLG|
 |:---:|:---:|:---:|:---:|
 |**ANX**|2-0|1-1|2-0|
-|**CLG**|2-0|1-1|
+|**CLG**|1-1|2-0|
 |**ROX**|2-0|
 *Legend: Left W - Top W*
 
@@ -995,7 +995,7 @@ Go to [Top](#) | [Summary](#summary)
 |   |G2|ANX|ROX|
 |:---:|:---:|:---:|:---:|
 |**CLG**|2-0|0-2|2-0|
-|**ROX**|2-0|1-1|
+|**ROX**|1-1|2-0|
 |**ANX**|1-1|
 *Legend: Left W - Top W*
 
@@ -1026,7 +1026,7 @@ Go to [Top](#) | [Summary](#summary)
 |   |G2|ANX|ROX|
 |:---:|:---:|:---:|:---:|
 |**CLG**|2-0|0-2|2-0|
-|**ROX**|2-0|1-1|
+|**ROX**|1-1|2-0|
 |**ANX**|1-1|
 *Legend: Left W - Top W*
 
@@ -1243,7 +1243,7 @@ Go to [Top](#) | [Summary](#summary)
 |   |ROX|G2|CLG|
 |:---:|:---:|:---:|:---:|
 |**ANX**|1-1|2-0|1-1|
-|**CLG**|1-1|2-0|
+|**CLG**|2-0|1-1|
 |**G2**|1-1|
 *Legend: Left W - Top W*
 
@@ -1274,7 +1274,7 @@ Go to [Top](#) | [Summary](#summary)
 |   |ROX|G2|CLG|
 |:---:|:---:|:---:|:---:|
 |**ANX**|1-1|2-0|1-1|
-|**CLG**|1-1|2-0|
+|**CLG**|2-0|1-1|
 |**G2**|1-1|
 *Legend: Left W - Top W*
 
@@ -1304,8 +1304,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |G2|ROX|CLG|
 |:---:|:---:|:---:|:---:|
-|**ANX**|1-1|1-1|2-0|
-|**CLG**|2-0|1-1|
+|**ANX**|2-0|1-1|1-1|
+|**CLG**|1-1|2-0|
 |**ROX**|2-0|
 *Legend: Left W - Top W*
 
@@ -1335,8 +1335,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |G2|ROX|CLG|
 |:---:|:---:|:---:|:---:|
-|**ANX**|1-1|1-1|2-0|
-|**CLG**|2-0|1-1|
+|**ANX**|2-0|1-1|1-1|
+|**CLG**|1-1|2-0|
 |**ROX**|2-0|
 *Legend: Left W - Top W*
 
@@ -1366,8 +1366,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |ANX|G2|ROX|
 |:---:|:---:|:---:|:---:|
-|**CLG**|2-0|2-0|1-1|
-|**ROX**|1-1|2-0|
+|**CLG**|1-1|2-0|2-0|
+|**ROX**|2-0|1-1|
 |**G2**|1-1|
 *Legend: Left W - Top W*
 
@@ -1397,8 +1397,8 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |ANX|G2|ROX|
 |:---:|:---:|:---:|:---:|
-|**CLG**|2-0|2-0|1-1|
-|**ROX**|1-1|2-0|
+|**CLG**|1-1|2-0|2-0|
+|**ROX**|2-0|1-1|
 |**G2**|1-1|
 *Legend: Left W - Top W*
 
@@ -1429,7 +1429,7 @@ Go to [Top](#) | [Summary](#summary)
 |   |G2|ANX|ROX|
 |:---:|:---:|:---:|:---:|
 |**CLG**|2-0|1-1|2-0|
-|**ROX**|2-0|1-1|
+|**ROX**|1-1|2-0|
 |**ANX**|2-0|
 *Legend: Left W - Top W*
 
@@ -1460,7 +1460,7 @@ Go to [Top](#) | [Summary](#summary)
 |   |G2|ANX|ROX|
 |:---:|:---:|:---:|:---:|
 |**CLG**|2-0|1-1|2-0|
-|**ROX**|2-0|1-1|
+|**ROX**|1-1|2-0|
 |**ANX**|2-0|
 *Legend: Left W - Top W*
 
@@ -1615,7 +1615,7 @@ Totals: 14/64 (21.875%)
 #### Head-to-head Record
 |   |CLG|ROX|G2|
 |:---:|:---:|:---:|:---:|
-|**ANX**|1-1|1-1|2-0|
+|**ANX**|2-0|1-1|1-1|
 |**G2**|1-1|1-1|
 |**ROX**|1-1|
 *Legend: Left W - Top W*
@@ -1643,7 +1643,7 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |CLG|ROX|G2|
 |:---:|:---:|:---:|:---:|
-|**ANX**|1-1|1-1|2-0|
+|**ANX**|2-0|1-1|1-1|
 |**G2**|1-1|1-1|
 |**ROX**|1-1|
 *Legend: Left W - Top W*
@@ -1727,7 +1727,7 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |G2|CLG|ROX|
 |:---:|:---:|:---:|:---:|
-|**ANX**|1-1|1-1|2-0|
+|**ANX**|2-0|1-1|1-1|
 |**ROX**|1-1|1-1|
 |**CLG**|1-1|
 *Legend: Left W - Top W*
@@ -1755,7 +1755,7 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |G2|CLG|ROX|
 |:---:|:---:|:---:|:---:|
-|**ANX**|1-1|1-1|2-0|
+|**ANX**|2-0|1-1|1-1|
 |**ROX**|1-1|1-1|
 |**CLG**|1-1|
 *Legend: Left W - Top W*
@@ -1783,7 +1783,7 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |G2|CLG|ANX|
 |:---:|:---:|:---:|:---:|
-|**ROX**|1-1|1-1|2-0|
+|**ROX**|2-0|1-1|1-1|
 |**ANX**|1-1|1-1|
 |**CLG**|1-1|
 *Legend: Left W - Top W*
@@ -1811,7 +1811,7 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |G2|CLG|ANX|
 |:---:|:---:|:---:|:---:|
-|**ROX**|1-1|1-1|2-0|
+|**ROX**|2-0|1-1|1-1|
 |**ANX**|1-1|1-1|
 |**CLG**|1-1|
 *Legend: Left W - Top W*
@@ -1895,7 +1895,7 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |ROX|ANX|G2|
 |:---:|:---:|:---:|:---:|
-|**CLG**|1-1|1-1|2-0|
+|**CLG**|2-0|1-1|1-1|
 |**G2**|1-1|1-1|
 |**ANX**|1-1|
 *Legend: Left W - Top W*
@@ -1923,7 +1923,7 @@ Go to [Top](#) | [Summary](#summary)
 #### Head-to-head Record
 |   |ROX|ANX|G2|
 |:---:|:---:|:---:|:---:|
-|**CLG**|1-1|1-1|2-0|
+|**CLG**|2-0|1-1|1-1|
 |**G2**|1-1|1-1|
 |**ANX**|1-1|
 *Legend: Left W - Top W*
