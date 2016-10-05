@@ -12,23 +12,23 @@
 |**SSG**|1-0|0-1|1-0|
 |**RNG**|1-0|1-0|
 |**TSM**|1-0|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 ---
 # Week 2 Possible Outcomes
 ## Summary
 ### Good outcomes for teams
-**Royal Never Give up (RNG):** [3](#outcome-no-3), [4](#outcome-no-4), [5](#outcome-no-5), [6](#outcome-no-6), [7](#outcome-no-7), [8](#outcome-no-8), [9](#outcome-no-9), [10](#outcome-no-10), [11](#outcome-no-11), [12](#outcome-no-12), [13](#outcome-no-13), [14](#outcome-no-14), [15](#outcome-no-15), [16](#outcome-no-16), [23](#outcome-no-23), [24](#outcome-no-24), [25](#outcome-no-25), [26](#outcome-no-26), [27](#outcome-no-27), [28](#outcome-no-28), [29](#outcome-no-29), [30](#outcome-no-30), [31](#outcome-no-31), [32](#outcome-no-32), [41](#outcome-no-41), [42](#outcome-no-42), [45](#outcome-no-45), [46](#outcome-no-46), [57](#outcome-no-57), [58](#outcome-no-58), [59](#outcome-no-59), [60](#outcome-no-60), [61](#outcome-no-61), [62](#outcome-no-62), [63](#outcome-no-63), [64](#outcome-no-64)
+**Royal Never Give up (RNG):** [3](#outcome-no-3), [4](#outcome-no-4), [5](#outcome-no-5), [6](#outcome-no-6), [7](#outcome-no-7), [8](#outcome-no-8), [9](#outcome-no-9), [10](#outcome-no-10), [11](#outcome-no-11), [12](#outcome-no-12), [13](#outcome-no-13), [14](#outcome-no-14), [15](#outcome-no-15), [16](#outcome-no-16), [23](#outcome-no-23), [24](#outcome-no-24), [25](#outcome-no-25), [26](#outcome-no-26), [27](#outcome-no-27), [28](#outcome-no-28), [29](#outcome-no-29), [30](#outcome-no-30), [31](#outcome-no-31), [32](#outcome-no-32), [41](#outcome-no-41), [42](#outcome-no-42), [45](#outcome-no-45), [46](#outcome-no-46), [57](#outcome-no-57), [58](#outcome-no-58), [59](#outcome-no-59), [60](#outcome-no-60), [61](#outcome-no-61), [62](#outcome-no-62), [63](#outcome-no-63), [64](#outcome-no-64), [21](#outcome-no-21), [22](#outcome-no-22)
 
 Ties: [1](#outcome-no-1), [2](#outcome-no-2), [17](#outcome-no-17), [18](#outcome-no-18), [19](#outcome-no-19), [20](#outcome-no-20), [53](#outcome-no-53), [54](#outcome-no-54)
 
-Opportunities: 36/64 (56.25%) | with Ties 44/64 (68.75%)
+Opportunities: 38/64 (59.375%) | with Ties 46/64 (71.875%)
 
-**Samsung Galaxy (SSG):** [25](#outcome-no-25), [26](#outcome-no-26), [27](#outcome-no-27), [28](#outcome-no-28), [29](#outcome-no-29), [30](#outcome-no-30), [31](#outcome-no-31), [32](#outcome-no-32), [35](#outcome-no-35), [36](#outcome-no-36), [37](#outcome-no-37), [38](#outcome-no-38), [39](#outcome-no-39), [40](#outcome-no-40), [41](#outcome-no-41), [42](#outcome-no-42), [43](#outcome-no-43), [44](#outcome-no-44), [45](#outcome-no-45), [46](#outcome-no-46), [47](#outcome-no-47), [48](#outcome-no-48), [51](#outcome-no-51), [52](#outcome-no-52), [55](#outcome-no-55), [56](#outcome-no-56), [57](#outcome-no-57), [58](#outcome-no-58), [59](#outcome-no-59), [60](#outcome-no-60), [61](#outcome-no-61), [62](#outcome-no-62), [63](#outcome-no-63), [64](#outcome-no-64)
+**Samsung Galaxy (SSG):** [25](#outcome-no-25), [26](#outcome-no-26), [27](#outcome-no-27), [28](#outcome-no-28), [29](#outcome-no-29), [30](#outcome-no-30), [31](#outcome-no-31), [32](#outcome-no-32), [35](#outcome-no-35), [36](#outcome-no-36), [37](#outcome-no-37), [38](#outcome-no-38), [39](#outcome-no-39), [40](#outcome-no-40), [41](#outcome-no-41), [42](#outcome-no-42), [43](#outcome-no-43), [44](#outcome-no-44), [45](#outcome-no-45), [46](#outcome-no-46), [47](#outcome-no-47), [48](#outcome-no-48), [51](#outcome-no-51), [52](#outcome-no-52), [55](#outcome-no-55), [56](#outcome-no-56), [57](#outcome-no-57), [58](#outcome-no-58), [59](#outcome-no-59), [60](#outcome-no-60), [61](#outcome-no-61), [62](#outcome-no-62), [63](#outcome-no-63), [64](#outcome-no-64), [49](#outcome-no-49), [50](#outcome-no-50), [53](#outcome-no-53), [54](#outcome-no-54)
 
 Ties: [17](#outcome-no-17), [18](#outcome-no-18), [19](#outcome-no-19), [20](#outcome-no-20), [21](#outcome-no-21), [22](#outcome-no-22), [33](#outcome-no-33), [34](#outcome-no-34)
 
-Opportunities: 34/64 (53.125%) | with Ties 42/64 (65.625%)
+Opportunities: 38/64 (59.375%) | with Ties 46/64 (71.875%)
 
 **Splyce (SPY):** 
 
@@ -36,11 +36,11 @@ Ties: [1](#outcome-no-1), [2](#outcome-no-2), [17](#outcome-no-17), [18](#outcom
 
 Opportunities: 0/64 (0.0%) | with Ties 8/64 (12.5%)
 
-**Team Solomid (TSM):** [3](#outcome-no-3), [4](#outcome-no-4), [5](#outcome-no-5), [6](#outcome-no-6), [7](#outcome-no-7), [8](#outcome-no-8), [9](#outcome-no-9), [10](#outcome-no-10), [11](#outcome-no-11), [12](#outcome-no-12), [13](#outcome-no-13), [14](#outcome-no-14), [15](#outcome-no-15), [16](#outcome-no-16), [23](#outcome-no-23), [24](#outcome-no-24), [35](#outcome-no-35), [36](#outcome-no-36), [37](#outcome-no-37), [38](#outcome-no-38), [39](#outcome-no-39), [40](#outcome-no-40), [43](#outcome-no-43), [44](#outcome-no-44), [47](#outcome-no-47), [48](#outcome-no-48), [51](#outcome-no-51), [52](#outcome-no-52), [55](#outcome-no-55), [56](#outcome-no-56)
+**Team Solomid (TSM):** [3](#outcome-no-3), [4](#outcome-no-4), [5](#outcome-no-5), [6](#outcome-no-6), [7](#outcome-no-7), [8](#outcome-no-8), [9](#outcome-no-9), [10](#outcome-no-10), [11](#outcome-no-11), [12](#outcome-no-12), [13](#outcome-no-13), [14](#outcome-no-14), [15](#outcome-no-15), [16](#outcome-no-16), [23](#outcome-no-23), [24](#outcome-no-24), [35](#outcome-no-35), [36](#outcome-no-36), [37](#outcome-no-37), [38](#outcome-no-38), [39](#outcome-no-39), [40](#outcome-no-40), [43](#outcome-no-43), [44](#outcome-no-44), [47](#outcome-no-47), [48](#outcome-no-48), [51](#outcome-no-51), [52](#outcome-no-52), [55](#outcome-no-55), [56](#outcome-no-56), [1](#outcome-no-1), [2](#outcome-no-2), [19](#outcome-no-19), [20](#outcome-no-20), [33](#outcome-no-33), [34](#outcome-no-34)
 
 Ties: [17](#outcome-no-17), [18](#outcome-no-18), [21](#outcome-no-21), [22](#outcome-no-22), [49](#outcome-no-49), [50](#outcome-no-50), [53](#outcome-no-53), [54](#outcome-no-54)
 
-Opportunities: 30/64 (46.875%) | with Ties 38/64 (59.375%)
+Opportunities: 36/64 (56.25%) | with Ties 44/64 (68.75%)
 
 [Outcomes with ties](#outcomes-with-ties)
 
@@ -67,7 +67,7 @@ Totals: 50/64 (78.125%)
 |**TSM**|1-1|2-0|2-0|
 |**RNG**|1-1|1-1|
 |**SPY**|1-1|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * RNG WINS VS SSG
@@ -98,7 +98,7 @@ Go to [Top](#) | [Summary](#summary)
 |**TSM**|1-1|2-0|2-0|
 |**RNG**|1-1|1-1|
 |**SPY**|1-1|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * RNG WINS VS SSG
@@ -129,7 +129,7 @@ Go to [Top](#) | [Summary](#summary)
 |**TSM**|1-1|1-1|2-0|
 |**RNG**|2-0|1-1|
 |**SPY**|1-1|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * RNG WINS VS SSG
@@ -160,7 +160,7 @@ Go to [Top](#) | [Summary](#summary)
 |**TSM**|1-1|1-1|2-0|
 |**RNG**|2-0|1-1|
 |**SPY**|1-1|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * RNG WINS VS SSG
@@ -191,7 +191,7 @@ Go to [Top](#) | [Summary](#summary)
 |**TSM**|1-1|2-0|2-0|
 |**RNG**|1-1|2-0|
 |**SSG**|1-1|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * RNG WINS VS SSG
@@ -222,7 +222,7 @@ Go to [Top](#) | [Summary](#summary)
 |**TSM**|1-1|2-0|2-0|
 |**RNG**|1-1|2-0|
 |**SSG**|1-1|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * RNG WINS VS SSG
@@ -253,7 +253,7 @@ Go to [Top](#) | [Summary](#summary)
 |**RNG**|2-0|1-1|1-1|
 |**TSM**|2-0|1-1|
 |**SSG**|2-0|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * RNG WINS VS SSG
@@ -284,7 +284,7 @@ Go to [Top](#) | [Summary](#summary)
 |**RNG**|2-0|1-1|1-1|
 |**TSM**|2-0|1-1|
 |**SSG**|2-0|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * RNG WINS VS SSG
@@ -315,7 +315,7 @@ Go to [Top](#) | [Summary](#summary)
 |**RNG**|2-0|1-1|1-1|
 |**TSM**|2-0|2-0|
 |**SSG**|2-0|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * RNG WINS VS SSG
@@ -346,7 +346,7 @@ Go to [Top](#) | [Summary](#summary)
 |**RNG**|2-0|1-1|1-1|
 |**TSM**|2-0|2-0|
 |**SSG**|2-0|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * RNG WINS VS SSG
@@ -377,7 +377,7 @@ Go to [Top](#) | [Summary](#summary)
 |**RNG**|2-0|1-1|2-0|
 |**TSM**|2-0|1-1|
 |**SSG**|2-0|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * RNG WINS VS SSG
@@ -408,7 +408,7 @@ Go to [Top](#) | [Summary](#summary)
 |**RNG**|2-0|1-1|2-0|
 |**TSM**|2-0|1-1|
 |**SSG**|2-0|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * RNG WINS VS SSG
@@ -439,7 +439,7 @@ Go to [Top](#) | [Summary](#summary)
 |**RNG**|2-0|1-1|2-0|
 |**TSM**|2-0|2-0|
 |**SSG**|2-0|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * RNG WINS VS SSG
@@ -470,7 +470,7 @@ Go to [Top](#) | [Summary](#summary)
 |**RNG**|2-0|1-1|2-0|
 |**TSM**|2-0|2-0|
 |**SSG**|2-0|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * RNG WINS VS SSG
@@ -501,7 +501,7 @@ Go to [Top](#) | [Summary](#summary)
 |**TSM**|1-1|1-1|2-0|
 |**RNG**|1-1|2-0|
 |**SSG**|1-1|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * RNG WINS VS SSG
@@ -532,7 +532,7 @@ Go to [Top](#) | [Summary](#summary)
 |**TSM**|1-1|1-1|2-0|
 |**RNG**|1-1|2-0|
 |**SSG**|1-1|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * RNG WINS VS SSG
@@ -563,7 +563,7 @@ Go to [Top](#) | [Summary](#summary)
 |**RNG**|1-1|1-1|2-0|
 |**SSG**|2-0|1-1|
 |**SPY**|1-1|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * RNG WINS VS SSG
@@ -594,7 +594,7 @@ Go to [Top](#) | [Summary](#summary)
 |**RNG**|1-1|1-1|2-0|
 |**SSG**|2-0|1-1|
 |**SPY**|1-1|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * RNG WINS VS SSG
@@ -625,7 +625,7 @@ Go to [Top](#) | [Summary](#summary)
 |**RNG**|1-1|2-0|1-1|
 |**SSG**|1-1|2-0|
 |**TSM**|2-0|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * RNG WINS VS SSG
@@ -656,7 +656,7 @@ Go to [Top](#) | [Summary](#summary)
 |**RNG**|1-1|2-0|1-1|
 |**SSG**|1-1|2-0|
 |**TSM**|2-0|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * RNG WINS VS SSG
@@ -687,7 +687,7 @@ Go to [Top](#) | [Summary](#summary)
 |**RNG**|1-1|2-0|2-0|
 |**SSG**|1-1|2-0|
 |**TSM**|1-1|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * RNG WINS VS SSG
@@ -718,7 +718,7 @@ Go to [Top](#) | [Summary](#summary)
 |**RNG**|1-1|2-0|2-0|
 |**SSG**|1-1|2-0|
 |**TSM**|1-1|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * RNG WINS VS SSG
@@ -749,7 +749,7 @@ Go to [Top](#) | [Summary](#summary)
 |**RNG**|1-1|2-0|2-0|
 |**SSG**|1-1|2-0|
 |**TSM**|2-0|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * RNG WINS VS SSG
@@ -780,7 +780,7 @@ Go to [Top](#) | [Summary](#summary)
 |**RNG**|1-1|2-0|2-0|
 |**SSG**|1-1|2-0|
 |**TSM**|2-0|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * RNG WINS VS SSG
@@ -811,7 +811,7 @@ Go to [Top](#) | [Summary](#summary)
 |**TSM**|2-0|2-0|1-1|
 |**SSG**|1-1|2-0|
 |**SPY**|1-1|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * SSG WINS VS RNG
@@ -842,7 +842,7 @@ Go to [Top](#) | [Summary](#summary)
 |**TSM**|2-0|2-0|1-1|
 |**SSG**|1-1|2-0|
 |**SPY**|1-1|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * SSG WINS VS RNG
@@ -873,7 +873,7 @@ Go to [Top](#) | [Summary](#summary)
 |**TSM**|2-0|1-1|1-1|
 |**SSG**|2-0|1-1|
 |**RNG**|2-0|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * SSG WINS VS RNG
@@ -904,7 +904,7 @@ Go to [Top](#) | [Summary](#summary)
 |**TSM**|2-0|1-1|1-1|
 |**SSG**|2-0|1-1|
 |**RNG**|2-0|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * SSG WINS VS RNG
@@ -935,7 +935,7 @@ Go to [Top](#) | [Summary](#summary)
 |**TSM**|2-0|1-1|2-0|
 |**SSG**|2-0|1-1|
 |**RNG**|2-0|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * SSG WINS VS RNG
@@ -966,7 +966,7 @@ Go to [Top](#) | [Summary](#summary)
 |**TSM**|2-0|1-1|2-0|
 |**SSG**|2-0|1-1|
 |**RNG**|2-0|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * SSG WINS VS RNG
@@ -997,7 +997,7 @@ Go to [Top](#) | [Summary](#summary)
 |**SSG**|2-0|0-2|2-0|
 |**RNG**|2-0|1-1|
 |**TSM**|1-1|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * SSG WINS VS RNG
@@ -1028,7 +1028,7 @@ Go to [Top](#) | [Summary](#summary)
 |**SSG**|2-0|0-2|2-0|
 |**RNG**|2-0|1-1|
 |**TSM**|1-1|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * SSG WINS VS RNG
@@ -1059,7 +1059,7 @@ Go to [Top](#) | [Summary](#summary)
 |**TSM**|2-0|0-2|2-0|
 |**SSG**|2-0|2-0|
 |**RNG**|1-1|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * SSG WINS VS RNG
@@ -1090,7 +1090,7 @@ Go to [Top](#) | [Summary](#summary)
 |**TSM**|2-0|0-2|2-0|
 |**SSG**|2-0|2-0|
 |**RNG**|1-1|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * SSG WINS VS RNG
@@ -1121,7 +1121,7 @@ Go to [Top](#) | [Summary](#summary)
 |**SSG**|2-0|0-2|2-0|
 |**RNG**|2-0|2-0|
 |**TSM**|1-1|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * SSG WINS VS RNG
@@ -1152,7 +1152,7 @@ Go to [Top](#) | [Summary](#summary)
 |**SSG**|2-0|0-2|2-0|
 |**RNG**|2-0|2-0|
 |**TSM**|1-1|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * SSG WINS VS RNG
@@ -1183,7 +1183,7 @@ Go to [Top](#) | [Summary](#summary)
 |**TSM**|2-0|0-2|2-0|
 |**SSG**|2-0|2-0|
 |**RNG**|2-0|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * SSG WINS VS RNG
@@ -1214,7 +1214,7 @@ Go to [Top](#) | [Summary](#summary)
 |**TSM**|2-0|0-2|2-0|
 |**SSG**|2-0|2-0|
 |**RNG**|2-0|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * SSG WINS VS RNG
@@ -1245,7 +1245,7 @@ Go to [Top](#) | [Summary](#summary)
 |**TSM**|1-1|2-0|1-1|
 |**SSG**|1-1|2-0|
 |**SPY**|1-1|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * SSG WINS VS RNG
@@ -1276,7 +1276,7 @@ Go to [Top](#) | [Summary](#summary)
 |**TSM**|1-1|2-0|1-1|
 |**SSG**|1-1|2-0|
 |**SPY**|1-1|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * SSG WINS VS RNG
@@ -1307,7 +1307,7 @@ Go to [Top](#) | [Summary](#summary)
 |**TSM**|1-1|1-1|2-0|
 |**SSG**|2-0|1-1|
 |**RNG**|2-0|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * SSG WINS VS RNG
@@ -1338,7 +1338,7 @@ Go to [Top](#) | [Summary](#summary)
 |**TSM**|1-1|1-1|2-0|
 |**SSG**|2-0|1-1|
 |**RNG**|2-0|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * SSG WINS VS RNG
@@ -1369,7 +1369,7 @@ Go to [Top](#) | [Summary](#summary)
 |**SSG**|2-0|2-0|1-1|
 |**RNG**|1-1|2-0|
 |**SPY**|1-1|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * SSG WINS VS RNG
@@ -1400,7 +1400,7 @@ Go to [Top](#) | [Summary](#summary)
 |**SSG**|2-0|2-0|1-1|
 |**RNG**|1-1|2-0|
 |**SPY**|1-1|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * SSG WINS VS RNG
@@ -1431,7 +1431,7 @@ Go to [Top](#) | [Summary](#summary)
 |**SSG**|2-0|1-1|2-0|
 |**RNG**|2-0|1-1|
 |**TSM**|2-0|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * SSG WINS VS RNG
@@ -1462,7 +1462,7 @@ Go to [Top](#) | [Summary](#summary)
 |**SSG**|2-0|1-1|2-0|
 |**RNG**|2-0|1-1|
 |**TSM**|2-0|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * SSG WINS VS RNG
@@ -1493,7 +1493,7 @@ Go to [Top](#) | [Summary](#summary)
 |**SSG**|2-0|1-1|2-0|
 |**RNG**|2-0|2-0|
 |**TSM**|1-1|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * SSG WINS VS RNG
@@ -1524,7 +1524,7 @@ Go to [Top](#) | [Summary](#summary)
 |**SSG**|2-0|1-1|2-0|
 |**RNG**|2-0|2-0|
 |**TSM**|1-1|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * SSG WINS VS RNG
@@ -1555,7 +1555,7 @@ Go to [Top](#) | [Summary](#summary)
 |**SSG**|2-0|1-1|2-0|
 |**RNG**|2-0|2-0|
 |**TSM**|2-0|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * SSG WINS VS RNG
@@ -1586,7 +1586,7 @@ Go to [Top](#) | [Summary](#summary)
 |**SSG**|2-0|1-1|2-0|
 |**RNG**|2-0|2-0|
 |**TSM**|2-0|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * SSG WINS VS RNG
@@ -1618,7 +1618,7 @@ Totals: 14/64 (21.875%)
 |**TSM**|1-1|1-1|2-0|
 |**SPY**|1-1|1-1|
 |**RNG**|1-1|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * RNG WINS VS SSG
@@ -1646,7 +1646,7 @@ Go to [Top](#) | [Summary](#summary)
 |**TSM**|1-1|1-1|2-0|
 |**SPY**|1-1|1-1|
 |**RNG**|1-1|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * RNG WINS VS SSG
@@ -1674,7 +1674,7 @@ Go to [Top](#) | [Summary](#summary)
 |**SPY**|1-1|1-1|1-1|
 |**TSM**|1-1|1-1|
 |**RNG**|1-1|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * RNG WINS VS SSG
@@ -1702,7 +1702,7 @@ Go to [Top](#) | [Summary](#summary)
 |**SPY**|1-1|1-1|1-1|
 |**TSM**|1-1|1-1|
 |**RNG**|1-1|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * RNG WINS VS SSG
@@ -1730,7 +1730,7 @@ Go to [Top](#) | [Summary](#summary)
 |**TSM**|1-1|1-1|2-0|
 |**RNG**|1-1|1-1|
 |**SSG**|1-1|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * RNG WINS VS SSG
@@ -1758,7 +1758,7 @@ Go to [Top](#) | [Summary](#summary)
 |**TSM**|1-1|1-1|2-0|
 |**RNG**|1-1|1-1|
 |**SSG**|1-1|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * RNG WINS VS SSG
@@ -1786,7 +1786,7 @@ Go to [Top](#) | [Summary](#summary)
 |**RNG**|1-1|1-1|2-0|
 |**TSM**|1-1|1-1|
 |**SSG**|1-1|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * RNG WINS VS SSG
@@ -1814,7 +1814,7 @@ Go to [Top](#) | [Summary](#summary)
 |**RNG**|1-1|1-1|2-0|
 |**TSM**|1-1|1-1|
 |**SSG**|1-1|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * RNG WINS VS SSG
@@ -1842,7 +1842,7 @@ Go to [Top](#) | [Summary](#summary)
 |**TSM**|1-1|2-0|1-1|
 |**SPY**|1-1|1-1|
 |**SSG**|2-0|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * SSG WINS VS RNG
@@ -1870,7 +1870,7 @@ Go to [Top](#) | [Summary](#summary)
 |**TSM**|1-1|2-0|1-1|
 |**SPY**|1-1|1-1|
 |**SSG**|2-0|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * SSG WINS VS RNG
@@ -1898,7 +1898,7 @@ Go to [Top](#) | [Summary](#summary)
 |**SSG**|1-1|1-1|2-0|
 |**SPY**|1-1|1-1|
 |**TSM**|1-1|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * SSG WINS VS RNG
@@ -1926,7 +1926,7 @@ Go to [Top](#) | [Summary](#summary)
 |**SSG**|1-1|1-1|2-0|
 |**SPY**|1-1|1-1|
 |**TSM**|1-1|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * SSG WINS VS RNG
@@ -1954,7 +1954,7 @@ Go to [Top](#) | [Summary](#summary)
 |**SSG**|1-1|2-0|1-1|
 |**TSM**|1-1|1-1|
 |**RNG**|2-0|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * SSG WINS VS RNG
@@ -1982,7 +1982,7 @@ Go to [Top](#) | [Summary](#summary)
 |**SSG**|1-1|2-0|1-1|
 |**TSM**|1-1|1-1|
 |**RNG**|2-0|
-*Legend: Column W - Row W*
+*Legend: Left W - Top W*
 
 #### Week 2 Results
 * SSG WINS VS RNG

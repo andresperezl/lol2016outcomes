@@ -18,29 +18,29 @@
 # Week 2 Possible Outcomes
 ## Summary
 ### Good outcomes for teams
-**Cloud9 (C9):** [7](#outcome-no-7), [8](#outcome-no-8), [13](#outcome-no-13), [14](#outcome-no-14), [21](#outcome-no-21), [22](#outcome-no-22), [23](#outcome-no-23), [24](#outcome-no-24), [25](#outcome-no-25), [26](#outcome-no-26), [27](#outcome-no-27), [28](#outcome-no-28), [29](#outcome-no-29), [30](#outcome-no-30), [31](#outcome-no-31), [32](#outcome-no-32), [43](#outcome-no-43), [44](#outcome-no-44), [45](#outcome-no-45), [46](#outcome-no-46), [47](#outcome-no-47), [48](#outcome-no-48), [53](#outcome-no-53), [54](#outcome-no-54), [59](#outcome-no-59), [60](#outcome-no-60), [61](#outcome-no-61), [62](#outcome-no-62), [63](#outcome-no-63), [64](#outcome-no-64)
+**Cloud9 (C9):** [7](#outcome-no-7), [8](#outcome-no-8), [13](#outcome-no-13), [14](#outcome-no-14), [21](#outcome-no-21), [22](#outcome-no-22), [23](#outcome-no-23), [24](#outcome-no-24), [25](#outcome-no-25), [26](#outcome-no-26), [27](#outcome-no-27), [28](#outcome-no-28), [29](#outcome-no-29), [30](#outcome-no-30), [31](#outcome-no-31), [32](#outcome-no-32), [43](#outcome-no-43), [44](#outcome-no-44), [45](#outcome-no-45), [46](#outcome-no-46), [47](#outcome-no-47), [48](#outcome-no-48), [53](#outcome-no-53), [54](#outcome-no-54), [59](#outcome-no-59), [60](#outcome-no-60), [61](#outcome-no-61), [62](#outcome-no-62), [63](#outcome-no-63), [64](#outcome-no-64), [5](#outcome-no-5), [6](#outcome-no-6), [9](#outcome-no-9), [10](#outcome-no-10), [11](#outcome-no-11), [12](#outcome-no-12), [15](#outcome-no-15), [16](#outcome-no-16)
 
 Ties: [1](#outcome-no-1), [2](#outcome-no-2), [3](#outcome-no-3), [4](#outcome-no-4), [17](#outcome-no-17), [18](#outcome-no-18), [19](#outcome-no-19), [20](#outcome-no-20), [41](#outcome-no-41), [42](#outcome-no-42), [55](#outcome-no-55), [56](#outcome-no-56), [57](#outcome-no-57), [58](#outcome-no-58)
 
-Opportunities: 30/64 (46.875%) | with Ties 44/64 (68.75%)
+Opportunities: 38/64 (59.375%) | with Ties 52/64 (81.25%)
 
-**Flash Wolves (FW):** [21](#outcome-no-21), [22](#outcome-no-22), [35](#outcome-no-35), [36](#outcome-no-36), [49](#outcome-no-49), [50](#outcome-no-50)
+**Flash Wolves (FW):** [21](#outcome-no-21), [22](#outcome-no-22), [35](#outcome-no-35), [36](#outcome-no-36), [49](#outcome-no-49), [50](#outcome-no-50), [1](#outcome-no-1), [2](#outcome-no-2), [17](#outcome-no-17), [18](#outcome-no-18), [33](#outcome-no-33), [34](#outcome-no-34)
 
 Ties: [3](#outcome-no-3), [4](#outcome-no-4), [5](#outcome-no-5), [6](#outcome-no-6), [9](#outcome-no-9), [10](#outcome-no-10), [19](#outcome-no-19), [20](#outcome-no-20), [37](#outcome-no-37), [38](#outcome-no-38), [41](#outcome-no-41), [42](#outcome-no-42), [57](#outcome-no-57), [58](#outcome-no-58)
 
-Opportunities: 6/64 (9.375%) | with Ties 20/64 (31.25%)
+Opportunities: 12/64 (18.75%) | with Ties 26/64 (40.625%)
 
-**I May (IM):** [7](#outcome-no-7), [8](#outcome-no-8), [35](#outcome-no-35), [36](#outcome-no-36), [39](#outcome-no-39), [40](#outcome-no-40), [51](#outcome-no-51), [52](#outcome-no-52)
+**I May (IM):** [7](#outcome-no-7), [8](#outcome-no-8), [35](#outcome-no-35), [36](#outcome-no-36), [39](#outcome-no-39), [40](#outcome-no-40), [51](#outcome-no-51), [52](#outcome-no-52), [3](#outcome-no-3), [4](#outcome-no-4), [19](#outcome-no-19), [20](#outcome-no-20)
 
 Ties: [1](#outcome-no-1), [2](#outcome-no-2), [5](#outcome-no-5), [6](#outcome-no-6), [11](#outcome-no-11), [12](#outcome-no-12), [15](#outcome-no-15), [16](#outcome-no-16), [33](#outcome-no-33), [34](#outcome-no-34), [37](#outcome-no-37), [38](#outcome-no-38), [55](#outcome-no-55), [56](#outcome-no-56)
 
-Opportunities: 8/64 (12.5%) | with Ties 22/64 (34.375%)
+Opportunities: 12/64 (18.75%) | with Ties 26/64 (40.625%)
 
-**SK Telecom T1 (SKT):** [13](#outcome-no-13), [14](#outcome-no-14), [23](#outcome-no-23), [24](#outcome-no-24), [25](#outcome-no-25), [26](#outcome-no-26), [27](#outcome-no-27), [28](#outcome-no-28), [29](#outcome-no-29), [30](#outcome-no-30), [31](#outcome-no-31), [32](#outcome-no-32), [39](#outcome-no-39), [40](#outcome-no-40), [43](#outcome-no-43), [44](#outcome-no-44), [45](#outcome-no-45), [46](#outcome-no-46), [47](#outcome-no-47), [48](#outcome-no-48), [49](#outcome-no-49), [50](#outcome-no-50), [51](#outcome-no-51), [52](#outcome-no-52), [53](#outcome-no-53), [54](#outcome-no-54), [59](#outcome-no-59), [60](#outcome-no-60), [61](#outcome-no-61), [62](#outcome-no-62), [63](#outcome-no-63), [64](#outcome-no-64)
+**SK Telecom T1 (SKT):** [13](#outcome-no-13), [14](#outcome-no-14), [23](#outcome-no-23), [24](#outcome-no-24), [25](#outcome-no-25), [26](#outcome-no-26), [27](#outcome-no-27), [28](#outcome-no-28), [29](#outcome-no-29), [30](#outcome-no-30), [31](#outcome-no-31), [32](#outcome-no-32), [39](#outcome-no-39), [40](#outcome-no-40), [43](#outcome-no-43), [44](#outcome-no-44), [45](#outcome-no-45), [46](#outcome-no-46), [47](#outcome-no-47), [48](#outcome-no-48), [49](#outcome-no-49), [50](#outcome-no-50), [51](#outcome-no-51), [52](#outcome-no-52), [53](#outcome-no-53), [54](#outcome-no-54), [59](#outcome-no-59), [60](#outcome-no-60), [61](#outcome-no-61), [62](#outcome-no-62), [63](#outcome-no-63), [64](#outcome-no-64), [41](#outcome-no-41), [42](#outcome-no-42), [55](#outcome-no-55), [56](#outcome-no-56), [57](#outcome-no-57), [58](#outcome-no-58)
 
 Ties: [9](#outcome-no-9), [10](#outcome-no-10), [11](#outcome-no-11), [12](#outcome-no-12), [15](#outcome-no-15), [16](#outcome-no-16), [17](#outcome-no-17), [18](#outcome-no-18), [19](#outcome-no-19), [20](#outcome-no-20), [33](#outcome-no-33), [34](#outcome-no-34), [37](#outcome-no-37), [38](#outcome-no-38)
 
-Opportunities: 32/64 (50.0%) | with Ties 46/64 (71.875%)
+Opportunities: 38/64 (59.375%) | with Ties 52/64 (81.25%)
 
 [Outcomes with ties](#outcomes-with-ties)
 

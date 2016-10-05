@@ -221,6 +221,9 @@ def generate_outcomes(group_letter)
     goods = results.select do |outcome, final_group|
       final_group[0].short.eql?(team.short) || final_group[1].short.eql?(team.short)
     end
+    goods.merge!(ties.select do |outcome, final_group|
+      final_group[0].short.eql?(team.short) && !fighting_for_seed(final_group).map(&:short).include?(team.short)
+    end)
     team_ties = ties.select do |outcome, final_group|
       fighting_for_seed(final_group).map(&:short).include?(team.short)
     end
