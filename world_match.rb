@@ -1,5 +1,5 @@
 require 'byebug'
-
+require 'set'
 class FalseClass; def to_i; 0 end end
 class TrueClass; def to_i; 1 end end
 
@@ -158,19 +158,13 @@ def self.print_table(group)
   puts ""
 end
 
-#We assume that group[1] and group[2] are equal in the group already passed
 def fighting_for_seed(group)
-  if(group[3] == group[2])
-    #4-way tie
-    return group if group[1] == group[0]
-    #3-way tie for 2nd
-    return group[1..3]
+  possible = group.select{ |t| t.total_wins == group[1].total_wins }
+  possible.reject! do |t|
+    !possible.inject(false){ |ties, t2| ties || (!t.eql?(t2) && t >= t2) }
   end
-
-  return group[0..2] if(group[1] == group[0])
-    #3-way tie for 1st, one team gets out
-  #2-way tie for second
-  return group[1..2]
+  return [] if (possible - [group[0], group[1]]) == []
+  return possible.size > 1 ? possible : []
 end
 
 def print_outcome(outcome, group, results_text)
@@ -196,14 +190,16 @@ def generate_outcomes(group_letter)
     group.each_with_index do |team, i|
       break if i == 3
       ((i + 1)..3).each do |j|
-        group[i].match(group[j], outcome[i + j - 1])
-        winner, looser = outcome[i + j - 1] ? [group[i], group[j]] : [group[j], group[i]]
+        index = i + j - ( i == 0 ? 1 : 0)
+        group[i].match(group[j], outcome[index])
+        winner, looser = outcome[index] ? [group[i], group[j]] : [group[j], group[i]]
         results_text[outcome] << "#{winner.short} WINS VS #{looser.short}"
       end
     end
     group.sort!.reverse!
+    #byebug
     #Only ties that affects the teams that would pass to the next phase
-    if group[1] != group[2] && group[0] != group[2]
+    unless fighting_for_seed(group).size > 0
       results[outcome] = group
     else
       ties[outcome] = group
